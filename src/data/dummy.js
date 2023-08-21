@@ -586,7 +586,7 @@ export const chatData = [
   {
     image:
       avatar2,
-    message: 'Roman Joined the Team!',
+    message: 'Banderas Joined the Team!',
     desc: 'Congratulate him',
     time: '9:08 AM',
   },
@@ -594,7 +594,7 @@ export const chatData = [
     image:
       avatar3,
     message: 'New message received',
-    desc: 'Salma sent you new message',
+    desc: 'Celina  sent you new message',
     time: '11:56 AM',
   },
   {
@@ -607,7 +607,7 @@ export const chatData = [
   {
     image:
       avatar,
-    message: 'Jolly completed tasks',
+    message: 'Julie completed tasks',
     desc: 'Assign her new tasks',
     time: '1:12 AM',
   },
@@ -849,7 +849,7 @@ export const themeColors = [
 export const userProfileData = [
   {
     icon: <BsCurrencyDollar />,
-    title: 'My Profile',
+    title: 'Antonio Profile',
     desc: 'Account Settings',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
